@@ -8,3 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'proj-for-desptest';
 }
+
+// 
+25 december
+// 
